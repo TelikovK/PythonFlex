@@ -1,0 +1,101 @@
+False
+await
+else
+import
+pass
+None
+break
+except
+in
+raise
+True
+class
+finally
+is
+return
+and
+continue
+for
+lambda
+try
+as
+def
+from
+nonlocal
+while
+assert
+del
+global
+not
+with
+async
+elif
+if
+or
+yield
+match
+case
+type
+_
++
+-
+*
+**
+/
+//
+%
+@
+<<
+>>
+&
+|
+^
+~
+:=
+<
+>
+<=
+>=
+==
+!=
+(
+)
+[
+]
+{
+}
+,
+:
+!
+.
+;
+@
+=
+->
++=
+-=
+*=
+/=
+//=
+%=
+@=
+&=
+|=
+^=
+>>=
+<<=
+**=
+"'Hello, world!'"
+"\"This is a string with double quotes\""
+"'''Multiline string with triple single quotes'''"
+"\"\"\"Multiline string with triple double quotes\"\"\""
+"'This is a string with escaped backslash \\'"
+"'This is a string with escaped single quote \\''"
+"'This is a string with escaped double quote \\\"'"
+"'This is a string with escaped newline \\n'"
+"'This is a string with escaped tab \\t'"
+"'This is a string with escaped octal \\040'"
+"'This is a string with escaped hex \\x20'"
+"'This is a string with escaped unicode \\u0020'"
+"'This is a string with escaped unicode \\U00000020'"
+"'This is a string with \\N{LATIN SMALL LETTER A}'"
